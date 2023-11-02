@@ -1,0 +1,12 @@
+.contenedor{  
+    width: 100%;  
+    background-color: green;
+    border-radius: 10px;
+    border: 1px solid white;
+    color:antiquewhite;    
+}
+
+.parrafo{
+    font-size: 30px;
+    margin: 10px;
+}

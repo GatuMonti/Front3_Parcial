@@ -1,0 +1,29 @@
+.contenedor{    
+    background-color: gray;    
+    padding: 40px 0px;
+    margin-bottom: 20px;    
+    border-radius: 5px;
+    border: 1px solid darkgray;
+    width: 100%;
+}
+
+.boton{
+    margin-top: 10px;
+}
+
+.error{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    color: red;
+    background-color: rgb(240, 248, 255);   
+    border: 1px solid darkred;
+    border-radius: 5px;   
+    height: 50px;    
+}
+
+.inputs{
+    margin: 5px;
+    font-size: 20px;    
+}
